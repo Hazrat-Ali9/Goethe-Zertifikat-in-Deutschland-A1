@@ -1,5 +1,5 @@
- # Hazrat Ali
+ # 🔫 Hazrat Ali
 
  # Programmer || Software Engineering
- 
+
  # Goethe-Zertifikat-in-Deutschland-A2
